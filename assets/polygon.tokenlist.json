@@ -1,0 +1,19 @@
+{
+  "name": "ApeSwap Polygon Token List",
+  "timestamp": "2025-08-12T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Zelatha",
+      "symbol": "ZLH",
+      "address": "0xbc30e65ebd4f7560967080c461f8aff96307dae3",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/polygon/0xbc30e65ebd4f7560967080c461f8aff96307dae3/logo.png"
+    }
+  ]
+}
